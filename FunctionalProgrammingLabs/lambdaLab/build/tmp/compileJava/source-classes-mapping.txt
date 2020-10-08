@@ -1,0 +1,5 @@
+com/example/lambda/LambdaTest.java
+ com.example.lambda.LambdaTest
+ com.example.lambda.LambdaTest$FunctionaOper
+com/example/lambda/TestFunc.java
+ com.example.lambda.TestFunc

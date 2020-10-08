@@ -1,0 +1,2 @@
+com/example/jersey/JerseyLab.java
+ com.example.jersey.JerseyLab

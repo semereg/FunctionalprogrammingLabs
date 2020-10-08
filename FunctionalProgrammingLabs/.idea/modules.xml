@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FunctionalProgrammingLabs.iml" filepath="$PROJECT_DIR$/.idea/FunctionalProgrammingLabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jerseyLab.iml" filepath="$PROJECT_DIR$/.idea/modules/jerseyLab.iml" />
+    </modules>
+  </component>
+</project>
